@@ -1,4 +1,4 @@
-#Drum Kit Project
+# Drum Kit Project
 This project is a simple drum kit web application that allows users to produce different sounds by clicking on buttons or typing corresponding keys on the keyboard. It was developed as part of a web development course on Udemy, with the JavaScript functionality implemented by the project creator.
 
 <h2>Features</h2>
