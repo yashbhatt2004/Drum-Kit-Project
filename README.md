@@ -16,6 +16,7 @@ This web application simulates a drum kit, allowing users to play various drum s
 <li>k: Plays the Crash cymbal sound.</li>
 <li>l: Triggers the Kick-Bass sound.</li>
 </ul>
+
 3. **User-Friendly Interface**
 The interface is designed for ease of use, with clearly labeled buttons corresponding to each drum element. Users can easily identify and interact with the drum kit to produce sounds.
 
