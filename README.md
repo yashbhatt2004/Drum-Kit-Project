@@ -1,10 +1,12 @@
 # Drum Kit Project
 This project is a simple drum kit web application that allows users to produce different sounds by clicking on buttons or typing corresponding keys on the keyboard. It was developed as part of a web development course on Udemy, with the JavaScript functionality implemented by the project creator.
 
-<h2>Features</h2>
-1. <h3>Interactive Drum Kit</h3>
+<h2>Key Features : </h2>
+
+1. **Interactive Drum Kit**
 This web application simulates a drum kit, allowing users to play various drum sounds by clicking on buttons or pressing corresponding keys on their keyboard.
-2. <h3>Multiple Drum Sounds</h3>
+
+2. **Multiple Drum Sounds**
 Each drum element has a unique sound associated with it:
 W: Produces the sound of Tom-1.
 A: Triggers the sound of Tom-2.
@@ -13,9 +15,11 @@ D: Generates the sound of Tom-4.
 J: Activates the Snare sound.
 K: Plays the Crash cymbal sound.
 L: Triggers the Kick-Bass sound.
-3. <h3>User-Friendly Interface</h3>
+
+3. **User-Friendly Interface**
 The interface is designed for ease of use, with clearly labeled buttons corresponding to each drum element. Users can easily identify and interact with the drum kit to produce sounds.
-4. <h3>Keyboard Support</h3>
+
+4. **Keyboard Support**
 In addition to clicking on buttons, users can also trigger drum sounds by pressing the corresponding keys on their keyboard. This provides an alternative method of interaction and enhances accessibility for users who prefer keyboard shortcuts.
 
 <h2>Getting Started</h2>h2>
@@ -48,7 +52,9 @@ Contributions to this project are welcome! If you find any issues or have sugges
 <h2>About the Developer</h2>
 This project was developed by Yash Bhatt, a web development enthusiast currently learning advanced JavaScript concepts. While the JavaScript functionality of this project was implemented independently, Yash acknowledges that there may be opportunities for improvement and welcomes feedback from the community.
 HTML and CSS templates provided by Angela Yu's Web Development Course, avalaible on Udemy Learning Platform.
+
 <h2>License</h2>
 This project is licensed under the MIT License.
+
 <h2>Conclusion</h2>
 Thank you for checking out the Drum Kit Project! Have fun experimenting with different sounds and rhythms. Happy coding!
