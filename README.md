@@ -7,22 +7,22 @@ This project is a simple drum kit web application that allows users to produce d
 This web application simulates a drum kit, allowing users to play various drum sounds by clicking on buttons or pressing corresponding keys on their keyboard.
 
 2. **Multiple Drum Sounds**
-Each drum element has a unique sound associated with it:
-W: Produces the sound of Tom-1.
-A: Triggers the sound of Tom-2.
-S: Plays the sound of Tom-3.
-D: Generates the sound of Tom-4.
-J: Activates the Snare sound.
-K: Plays the Crash cymbal sound.
-L: Triggers the Kick-Bass sound.
-
+<ul>Each drum element has a unique sound associated with it:
+<li>w: Produces the sound of Tom-1.</li>
+<li>a: Triggers the sound of Tom-2.</li>
+<li>s: Plays the sound of Tom-3.</li>
+<li>d: Generates the sound of Tom-4.</li>
+<li>j: Activates the Snare sound.</li>
+<li>k: Plays the Crash cymbal sound.</li>
+<li>l: Triggers the Kick-Bass sound.</li>
+</ul>
 3. **User-Friendly Interface**
 The interface is designed for ease of use, with clearly labeled buttons corresponding to each drum element. Users can easily identify and interact with the drum kit to produce sounds.
 
 4. **Keyboard Support**
 In addition to clicking on buttons, users can also trigger drum sounds by pressing the corresponding keys on their keyboard. This provides an alternative method of interaction and enhances accessibility for users who prefer keyboard shortcuts.
 
-<h2>Getting Started</h2>h2>
+<h2>Getting Started</h2>
 
 1. **Clone the Repository**
    Start by cloning this repository to your local machine:
@@ -46,6 +46,7 @@ In addition to clicking on buttons, users can also trigger drum sounds by pressi
    
 5. **Interact with the Drum Kit:**
    Once the project is open in your browser, you can start interacting with the drum kit. Click on the drum buttons with your mouse to trigger sounds, or use the corresponding keys on your keyboard
+   
 <h2>Contributing</h2>
 Contributions to this project are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 
