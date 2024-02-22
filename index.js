@@ -1,5 +1,7 @@
 var bt = document.querySelectorAll("button");
-var sound = new Audio("sounds/tom-1.mp3");
+
+//Adding Event Listener to each button
+
 for (var i = 0; i < bt.length; i++) 
 {
     bt[i].addEventListener("click", function () {
@@ -8,10 +10,16 @@ for (var i = 0; i < bt.length; i++)
         btnAnimation(btnInnerHTML);
     });
 }
+
+// Adding a event listener for key press on the keyboard
+
 document.addEventListener("keydown", function (e) {
     playSound(e.key);
     btnAnimation(e.key);
 })
+
+//To play different sounds corresponding to different buttons and/or keys pressed
+
 function playSound(input) {
     switch (input) {
         case "w":
@@ -53,6 +61,9 @@ function playSound(input) {
             console.log(this);
     }
 }
+
+// To add animation whhenever a button is clicked or a key is pressed
+
 function btnAnimation(input)
 {
     var currButton=document.querySelector("."+input);
